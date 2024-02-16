@@ -1,5 +1,5 @@
 export const environment = {
     production: false,
-    API_URL: 'https://api-uat.tedu.work',
+    API_URL: 'https://localhost:7004',
   };
   

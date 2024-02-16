@@ -12,6 +12,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "build": "ng build",
     "build-prod": "ng build --c production",
     "build-uat":"ng build --c uat",
     "watch": "ng build --watch --configuration development",
